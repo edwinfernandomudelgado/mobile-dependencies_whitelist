@@ -2808,7 +2808,7 @@
       "version": "2\\.5\\.1"
     },
     {
-      "group": "androidx\\.room",
+      "group": "androidx\\.roo",
       "name": "room-ktx",
       "version": "2\\.5\\.1"
     },
